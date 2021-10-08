@@ -1,6 +1,8 @@
 # Learn_go
 Learn_go
 
+搜集整理的学习go的网站
+
 go语言系列
 goim
 http://goim.io
